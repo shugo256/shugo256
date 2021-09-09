@@ -15,12 +15,19 @@ I'm a graduate student at the University of Tokyo. I'm specialized in distribute
 ### Undergraduate Thesis
 Scalable and Efficient Distributed Hypergraph Processing System
 
-![https://github.com/team-azb/route-bucket-backend](https://github-readme-stats.vercel.app/api/pin/?username=shugo256&repo=GeminiGraph&show_icons=true&theme=graywhite)
+![https://github.com/shugo256/GeminiGraph](https://github-readme-stats.vercel.app/api/pin/?username=shugo256&repo=GeminiGraph&show_icons=true&theme=graywhite)
 
 ### Route Creation App for Cyclists
 
 [![Backend](https://github-readme-stats.vercel.app/api/pin/?username=team-azb&repo=route-bucket-backend&show_icons=true&theme=graywhite)](https://github.com/team-azb/route-bucket-backend)
 [![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=team-azb&repo=route-bucket-frontend&show_icons=true&theme=graywhite)](https://github.com/team-azb/route-bucket-frontend)
+
+### Competitive Programming
+[![](https://cp-logo.vercel.app/atcoder/shugo256)](https://atcoder.jp/users/shugo256?lang=en) 
+[![](https://cp-logo.vercel.app/codeforces/shugo256)](https://codeforces.com/profile/shugo256)
+
+[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=shugo256&repo=AlgorithmLibrary&show_icons=true&theme=graywhite)](https://github.com/shugo256/AlgorithmLibrary)
+[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=shugo256&repo=AtCoder&show_icons=true&theme=graywhite)](https://github.com/shugo256/AtCoder)
 
 <!--
 **shugo256/shugo256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
