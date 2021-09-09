@@ -15,7 +15,7 @@ I'm a graduate student at the University of Tokyo. I'm specialized in distribute
 ### Undergraduate Thesis
 Scalable and Efficient Distributed Hypergraph Processing System
 
-![https://github.com/shugo256/GeminiGraph](https://github-readme-stats.vercel.app/api/pin/?username=shugo256&repo=GeminiGraph&show_icons=true&theme=graywhite)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shugo256&repo=GeminiGraph&show_icons=true&theme=graywhite)](https://github.com/shugo256/GeminiGraph)
 
 ### Route Creation App for Cyclists
 
