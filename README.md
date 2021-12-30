@@ -1,15 +1,15 @@
 ## Hi, I'm Shugo 👋
 I'm a graduate student at the University of Tokyo. I'm specialized in distributed computing, graph processing and federated learning.
 
-<!-- <a href="https://github.com/shugo256">
+<a href="https://github.com/shugo256">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=shugo256&count_private=true&show_icons=true&count_private=true&theme=graywhite" />
 </a>
 <a href="https://github.com/shugo256">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shugo256&langs_count=3&exclude_repo=AtCoder&count_private=true&theme=graywhite" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shugo256&count_private=true&theme=graywhite" />
 </a>
 
 <br />
-<br /> -->
+<br />
 
 ## Projects
 ### Undergraduate Thesis
